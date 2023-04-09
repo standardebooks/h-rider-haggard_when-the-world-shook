@@ -43,6 +43,22 @@
 	display: none;
 }
 
+figure{
+	break-inside: avoid;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figcaption{
+	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
