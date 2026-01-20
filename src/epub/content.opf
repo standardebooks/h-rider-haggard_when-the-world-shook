@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1368</dc:source>
 		<dc:source>https://archive.org/details/whenworldshookb00hagggoog</dc:source>
-		<meta property="se:word-count">120701</meta>
+		<meta property="se:word-count">120221</meta>
 		<meta property="se:reading-ease.flesch">76.86</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/When_the_World_Shook</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-rider-haggard_when-the-world-shook</meta>
