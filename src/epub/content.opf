@@ -37,7 +37,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">When the World Shook: Being an Account of the Great Adventure of Bastin, Bickley, and Arbuthnot</dc:title>
 		<meta property="file-as" refines="#fulltitle">When the World Shook: Being an Account of the Great Adventure of Bastin, Bickley, and Arbuthnot</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Adventure stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
